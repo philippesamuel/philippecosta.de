@@ -12,7 +12,7 @@ on:
 
 jobs:
   generate-projects-data:
-    if: github.repository_owner == 'tiangolo'
+    if: github.repository_owner == 'philippesamuel'
     runs-on: ubuntu-latest
     steps:
       - name: Dump GitHub context
@@ -32,5 +32,5 @@ jobs:
       - uses: ./.github/actions/generate-projects-data
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          github_user: tiangolo
-          github_org: fastapi
+          github_user: philippesamuel
+          # github_org: fastapi

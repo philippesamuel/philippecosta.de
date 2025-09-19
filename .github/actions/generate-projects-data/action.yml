@@ -1,6 +1,6 @@
 name: "Generate Data"
 description: "Generate the data for projects and teams"
-author: "Sebastián Ramírez <tiangolo@gmail.com>"
+author: "Philippe Costa <philippe.sa.costa@gmail.com>"
 inputs:
   token:
     description: 'User token, to read the GitHub API. Can be passed in using {{ secrets.DATA_TOKEN }}'

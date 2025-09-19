@@ -1,9 +1,9 @@
 INHERIT: ./mkdocs.maybe-insiders.yml
-site_name: tiangolo's boring personal website
-site_description: Stuff by tiangolo
-site_url: https://tiangolo.com/
-repo_name: tiangolo/tiangolo.com
-repo_url: https://github.com/tiangolo/tiangolo.com
+site_name: philippe's awesome personal website
+site_description: Stuff by philippe
+site_url: https://philippecosta.de/
+repo_name: philippesamuel/philippecosta.de
+repo_url: https://github.com/philippesamuel/philippecosta.de
 theme:
   name: material
   custom_dir: docs/overrides
@@ -69,7 +69,6 @@ nav:
   - Open Source:
     - open-source/index.md
     - projects.md
-    - github-fastapi.md
 
 markdown_extensions:
   # Python Markdown
@@ -118,19 +117,19 @@ markdown_extensions:
 extra:
   social:
   - icon: fontawesome/brands/github-alt
-    link: https://github.com/tiangolo
-  - icon: fontawesome/brands/twitter
-    link: https://twitter.com/tiangolo
+    link: https://github.com/philippesamuel
+  # - icon: fontawesome/brands/twitter
+    # link: https://twitter.com/tiangolo
   - icon: fontawesome/brands/linkedin
-    link: https://www.linkedin.com/in/tiangolo
-  - icon: fontawesome/brands/dev
-    link: https://dev.to/tiangolo
-  - icon: fontawesome/brands/medium
-    link: https://medium.com/@tiangolo
+    link: https://www.linkedin.com/in/santosdacosta
+  # - icon: fontawesome/brands/dev
+    # link: https://dev.to/tiangolo
+  # - icon: fontawesome/brands/medium
+    # link: https://medium.com/@tiangolo
   - icon: fontawesome/solid/globe
-    link: https://tiangolo.com
+    link: https://philippecosta.de
   - icon: fontawesome/solid/envelope
-    link: mailto:tiangolo@gmail.com
+    link: mailto:philippe.sa.costa@gmail.com
 
 extra_css:
   - css/termynal.css

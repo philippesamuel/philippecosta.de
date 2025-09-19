@@ -5,7 +5,7 @@ from github import Github
 from pydantic import BaseModel, SecretStr
 from pydantic_settings import BaseSettings
 
-site_domain = "tiangolo.com"
+site_domain = "philippecosta.de"
 
 
 class Settings(BaseSettings):

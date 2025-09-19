@@ -69,7 +69,6 @@ nav:
   - Open Source:
     - open-source/index.md
     - projects.md
-    - github-fastapi.md
 
 markdown_extensions:
   # Python Markdown

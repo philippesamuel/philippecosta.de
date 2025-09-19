@@ -6,8 +6,8 @@ Hey! I'm **<a href="https://www.linkedin.com/in/santosdacosta/" target="_blank">
 
 </div>
 
-I'm an engineer born and raised in Brazil.
+I'm an engineer born and raised in Brazil. 🇧🇷
 
 I currently live in Berlin, Germany. 🇩🇪
 
-I proudly ~stole~ forked [tiangolo](https://tiangolo.com/)'s profile page. Thanks to him for all his amazing work.
+I proudly ~~stole~~ forked [tiangolo](https://tiangolo.com/)'s profile page. Thanks to him for all his amazing work.

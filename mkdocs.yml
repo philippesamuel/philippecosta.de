@@ -66,8 +66,7 @@ plugins:
 
 nav:
   - index.md
-  - Open Source:
-    - open-source/index.md
+  - Projects :
     - projects.md
 
 markdown_extensions:

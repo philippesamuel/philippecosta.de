@@ -122,10 +122,10 @@ extra:
     # link: https://twitter.com/tiangolo
   - icon: fontawesome/brands/linkedin
     link: https://www.linkedin.com/in/santosdacosta
-  # - icon: fontawesome/brands/dev
-    # link: https://dev.to/tiangolo
-  # - icon: fontawesome/brands/medium
-    # link: https://medium.com/@tiangolo
+  - icon: fontawesome/brands/dev
+    link: https://dev.to/philippecosta
+  - icon: fontawesome/brands/medium
+    link: https://medium.com/@philippe.sa.costa
   - icon: fontawesome/solid/globe
     link: https://philippecosta.de
   - icon: fontawesome/solid/envelope

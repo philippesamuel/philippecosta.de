@@ -1,6 +1,6 @@
 INHERIT: ./mkdocs.maybe-insiders.yml
-site_name: philippe's awesome personal website
-site_description: Stuff by philippe
+site_name: Philippe Costa | Engineer | Data | Developer
+site_description: Chemical Engineer (M.Sc., TU Berlin) and Developer based in Berlin. Focus on Automations with n8n.
 site_url: https://philippecosta.de/
 repo_name: philippesamuel/philippecosta.de
 repo_url: https://github.com/philippesamuel/philippecosta.de
@@ -73,6 +73,7 @@ nav:
 markdown_extensions:
   # Python Markdown
   abbr:
+  admonition:
   attr_list:
   footnotes:
   md_in_html:
@@ -84,6 +85,13 @@ markdown_extensions:
   pymdownx.betterem:
     smart_enable: all
   pymdownx.caret:
+  pymdownx.details:
+  pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    options:
+      custom_icons:
+        - overrides/.icons
   pymdownx.highlight:
     line_spans: __span
   pymdownx.inlinehilite:

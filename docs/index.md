@@ -20,8 +20,17 @@ Hey! I'm **<a href="https://www.linkedin.com/in/santosdacosta/" target="_blank">
 
 </div>
 
-I'm an engineer born and raised in Brazil. 🇧🇷
+(Much more than) a Chemical Engineer (M.Sc. from TU Berlin, 2021) who uses an analytical, systems-focused approach to solve problems with software and automation.
 
-I currently live in Berlin, Germany. 🇩🇪
+Born and raised in Brazil, I now live in Berlin.
+I am fluent in Portuguese, German, English and Python 😉.
+My background in process engineering drives my passion for workflow automation and efficient system design.
+# (n8n, CI/CD)
 
-I proudly ~~stole~~ forked [tiangolo](https://tiangolo.com/)'s profile page. Thanks to him for all his amazing work.
+I am currently focusing on: Cloud-Native Deployments (Cloudflare Pages, Hetzner), Workflow Automation (n8n), and Modern Development Practices (GitHub, static site generators like MkDocs).
+I aim for realistic, sustainable solutions—not just optimization for its own sake. Building systems that are maintainable, well-documented, and genuinely useful is the core objective.
+
+:flag_br: :flag_de: :flag_gb: :fontawesome-brands-python:
+
+!!! tip "Automation Focus"
+    I use **n8n** (hosted on Hetzner) to automate complex personal and professional workflows, bridging the gap between existing systems and new tools.
